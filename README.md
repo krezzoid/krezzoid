@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm senior software manager with over 15 years experience of software development involving SCRUM/AGILE practices, analysis, design, implementation, and testing of commercial native mobile applications for iOS/Android platforms, using Swift, Objective-C and Kotlin languages, Bluetooth/BLE, CarPlay/AndroidAuto/MirrorLink technologies, CoreData, Realm, MapKit/MapBox/HERE, Alamofire, Retrofit, RxSwift/RxKotlin as well as dozens other open source frameworks.
+
+Active adept of using VIPER and MVVM architectures as application of Clean Architecture in mobile applications, Dependency Injections, Tests-Driven Development, Reactive and Functional Programming.
+
 <!--
 **krezzoid/krezzoid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
