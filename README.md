@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm senior software manager with over 15 years experience of software development involving SCRUM/AGILE practices, analysis, design, implementation, and testing of commercial native mobile applications for iOS/Android platforms, using Swift, Objective-C and Kotlin languages, Bluetooth/BLE, CarPlay/AndroidAuto/MirrorLink technologies, CoreData, Realm, MapKit/MapBox/HERE, Alamofire, Retrofit, RxSwift/RxKotlin as well as dozens other open source frameworks.
+I'm senior software manager with over 15 years experience of software development involving SCRUM/AGILE practices, analysis, design, implementation, and testing of commercial native mobile applications for iOS/Android platforms, using Swift, Objective-C and Kotlin languages, Bluetooth/BLE, CarPlay/AndroidAuto/MirrorLink technologies, CoreData, Realm, MapKit/MapBox/HERE, Alamofire, Retrofit, RxSwift/RxKotlin as well as dozens other open source frameworks. Enthusiast of using VAPOR for server side Swift apps development together with Amazon Elastic Beanstalk, S3, etc.
 
 Active adept of using VIPER and MVVM architectures as application of Clean Architecture in mobile applications, Dependency Injections, Tests-Driven Development, Reactive and Functional Programming.
 
