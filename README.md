@@ -4,8 +4,6 @@ I'm senior software manager with over 15 years experience of software developmen
 
 Active adept of using VIPER and MVVM architectures as application of Clean Architecture in mobile applications, Dependency Injections, Tests-Driven Development, Reactive and Functional Programming.
 
-[![Krezzoid's github stats](https://github-readme-stats.vercel.app/api?username=krezzoid&count_private=true&show_icons=true&line_height=20&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 **krezzoid/krezzoid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
