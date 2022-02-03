@@ -3,7 +3,7 @@
 Senior software manager with over 15 years experience of software development involving SCRUM/AGILE practices, analysis, design, implementation, and testing of commercial native mobile applications for iOS/Android platforms, using Swift, Objective-C and Kotlin languages, Bluetooth/BLE, CarPlay/AndroidAuto/MirrorLink technologies, CoreData, Realm, MapKit/MapBox/HERE, Alamofire, Retrofit, RxSwift/RxKotlin as well as dozens other open source frameworks. Enthusiast of using VAPOR/Swift and Fiber/Go for backend developments together with Docker, Amazon Elastic Beanstalk, AWS, RDS, S3, SES, etc.
 
 Active adept of using VIPER and MVVM architectures as application of Clean Architecture in mobile applications, Dependency Injections, Tests-Driven Development, Reactive and Functional Programming.
-![](https://hit.yhype.me/github/profile?user_id=2028094)
+
 <!--
 **krezzoid/krezzoid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
